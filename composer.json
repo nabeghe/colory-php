@@ -1,0 +1,26 @@
+{
+  "name": "nabeghe/colory",
+  "description": "Simple colors helper for PHP.",
+  "keywords": [
+    "color", "colory", "color helper", "colors helper",
+    "library", "helper", "support"
+  ],
+  "type": "library",
+  "version": "0.1.0",
+  "homepage": "https://github.com/nabeghe/colory-php",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Nabeghe\\Colory\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Hadi Akbarzadeh",
+      "email": "hadicoder@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  }
+}
