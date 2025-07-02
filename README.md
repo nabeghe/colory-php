@@ -6,8 +6,6 @@ Generating random RGB & HEX colors with alpha capability,
 Inverting RGB and HEX colors, converting between RGB and HEX colors &
 perhaps more features in the future.
 
-<hr>
-
 ## 🫡 Usage
 
 ### 🚀 Installation
@@ -17,8 +15,6 @@ You can install the package via composer:
 ```bash
 composer require nabeghe/colory
 ```
-
-<hr>
 
 #### Example:
 
@@ -75,10 +71,6 @@ echo "> HEX To RGB (nabeghe/colory) => ".json_encode(Colory::hexToRgb('nabeghe/c
 echo "\n";
 ```
 
-<hr>
-
 ## 📖 License
-
-Copyright (c) 2024 Hadi Akbarzadeh
 
 Licensed under the MIT license, see [LICENSE.md](LICENSE.md) for details.
